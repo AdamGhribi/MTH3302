@@ -1,1 +1,2 @@
-# MTH3302 : Méthodes probabilistes et statistiques pour l'I.A.
+# MTH3302 : Probabilistic and statistical methods for A.I.
+
